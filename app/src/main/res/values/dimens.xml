@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_height_0dp">0dp</dimen>
+    <dimen name="layout_height_56dp">56dp</dimen>
+    <dimen name="layout_margin_end_32dp">32dp</dimen>
+    <dimen name="layout_margin_bottom_32dp">32dp</dimen>
+    <dimen name="padding_bottom_50dp">50dp</dimen>
+    <dimen name="layout_width_0dp">0dp</dimen>
+    <dimen name="padding_16dp">16dp</dimen>
+    <dimen name="text_size_24sp">24sp</dimen>
+    <dimen name="layout_width_160dp">160dp</dimen>
+    <dimen name="layout_height_90dp">90dp</dimen>
+    <dimen name="layout_margin_top_16dp">16dp</dimen>
+    <dimen name="layout_margin_start_8dp">8dp</dimen>
+    <dimen name="text_size_15sp">15sp</dimen>
+    <dimen name="layout_margin_top_8dp">8dp</dimen>
+</resources>
